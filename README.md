@@ -1,6 +1,8 @@
 # My-new-project
 Building AI Project
 ##Project Name: AccessiVision - Image Recognition for Accessibility
+##Summary
+This is an idea that uses AI to make people with disabilities use the web content. 
 
 ##Background:
 AccessiVision aims to address the challenge faced by visually impaired individuals when interacting with images online. Visual content is prevalent on the internet, but for people with visual impairments, understanding these images can be a significant barrier. This project seeks to empower visually impaired users by providing an AI-based solution that can describe images and make web content more accessible.
