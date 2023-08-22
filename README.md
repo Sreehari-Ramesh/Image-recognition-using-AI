@@ -4,15 +4,16 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 
 
-## AccessiVision - Image Recognition for Accessibility
+## Image Recognition for Accessibility
+Building AI course Project
 
 ## Summary
 
-AccessiVision is an AI-based solution that empowers visually impaired individuals to access web content by providing accurate and concise textual descriptions of images encountered during web browsing.
+This is an AI-based solution that empowers visually impaired individuals to access web content by providing accurate and concise textual descriptions of images encountered during web browsing.
 
 ## Background
 
-AccessiVision addresses the challenge faced by visually impaired individuals when interacting with images online. Visual content is prevalent on the internet, creating a barrier for people with visual impairments. This project uses AI and Convolutional Neural Networks (CNNs) to analyze and describe images, enhancing web content accessibility.
+Project addresses the challenge faced by visually impaired individuals when interacting with images online. Visual content is prevalent on the internet, creating a barrier for people with visual impairments. This project uses AI and Convolutional Neural Networks (CNNs) to analyze and describe images, enhancing web content accessibility.
 
 This is how you make a list, if you need one:
 * Limited accessibility for visually impaired users to understand images online.
@@ -20,15 +21,15 @@ This is how you make a list, if you need one:
 
 ## How is it used?
 
-AccessiVision is utilized during web browsing when visually impaired users encounter images. The AI analyzes the image content and generates accurate textual descriptions, which are then read aloud using text-to-speech technology. This solution aims to provide a more inclusive internet experience for individuals with visual impairments.
+This is utilized during web browsing when visually impaired users encounter images. The AI analyzes the image content and generates accurate textual descriptions, which are then read aloud using text-to-speech technology. This solution aims to provide a more inclusive internet experience for individuals with visual impairments.
 
 ## Challenges
 
-AccessiVision does not provide real-time descriptions for rapidly changing images, struggles with complex images, and might miss nuanced details. Ethical considerations include ensuring privacy and avoiding biased descriptions.
+Product does not provide real-time descriptions for rapidly changing images, struggles with complex images, and might miss nuanced details. Ethical considerations include ensuring privacy and avoiding biased descriptions.
 
 ## What next?
 
-AccessiVision has the potential to grow:
+This project has the potential to grow:
 * Integration into web browsers for seamless image recognition.
 * Expansion to mobile apps and social media platforms.
 * Continuous improvement through user feedback and collaboration.
